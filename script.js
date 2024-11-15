@@ -19,3 +19,4 @@ async function getWeather() {
         document.getElementById('error').style.display = 'block';
     }
 }
+// Absolutely, let’s walk through how to build a weather app, set up Git branches, fetch weather data, and then merge the branches when done.
